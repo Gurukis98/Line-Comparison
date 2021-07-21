@@ -14,7 +14,7 @@ namespace Line_Comparison_UC_1
             Console.WriteLine("Point Two: " + (x2, y2));
             double pow = Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2);
             Console.WriteLine("Power = " + pow);
-            Console.WriteLine("Length of a Line: " + Math.Sqrt(pow));
+            Console.WriteLine("Length of a Line.: " + Math.Sqrt(pow));
         }
     }
 }
