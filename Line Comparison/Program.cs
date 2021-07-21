@@ -6,7 +6,7 @@ namespace Line_Comparison
     {
        public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Line Comparison");
+            Console.WriteLine("Welcome to Line Comparison.");
         }
     }
 }
