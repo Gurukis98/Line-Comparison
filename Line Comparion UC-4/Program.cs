@@ -16,7 +16,7 @@ namespace Line_Comparion_UC_4
             //8>4 is true (lesser than)
 
             Console.WriteLine("Line one: " + x1.CompareTo(y1));
-            Console.WriteLine("Line Two: " + x2.CompareTo(y2));
+            Console.WriteLine("Line Two.: " + x2.CompareTo(y2));
         }
     }
 }
