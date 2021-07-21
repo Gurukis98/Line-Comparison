@@ -1,0 +1,13 @@
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\bin\Debug\netcoreapp3.1\Line Comparison.exe
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\bin\Debug\netcoreapp3.1\Line Comparison.deps.json
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\bin\Debug\netcoreapp3.1\Line Comparison.runtimeconfig.json
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\bin\Debug\netcoreapp3.1\Line Comparison.runtimeconfig.dev.json
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\bin\Debug\netcoreapp3.1\Line Comparison.dll
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\bin\Debug\netcoreapp3.1\Line Comparison.pdb
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\obj\Debug\netcoreapp3.1\Line Comparison.csproj.AssemblyReference.cache
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\obj\Debug\netcoreapp3.1\Line Comparison.AssemblyInfoInputs.cache
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\obj\Debug\netcoreapp3.1\Line Comparison.AssemblyInfo.cs
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\obj\Debug\netcoreapp3.1\Line Comparison.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\obj\Debug\netcoreapp3.1\Line Comparison.dll
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\obj\Debug\netcoreapp3.1\Line Comparison.pdb
+C:\Users\kisho\Day-8 Line Comparison\Line Comparison\Line Comparison\obj\Debug\netcoreapp3.1\Line Comparison.genruntimeconfig.cache
