@@ -6,6 +6,7 @@ namespace Line_Comparion_UC_4
     {
        public static void Main(string[] args)
         {
+            Program objPro = new Program();
             int x1 = 8;
             int x2 = 6;
             int y1 = 4;
